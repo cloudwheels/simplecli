@@ -20,6 +20,8 @@ run the cli from any command prompt
 
 `simplecli l`
 
+`cd ~ && simplecli l`
+
 modify commands in `bin/cli.js` 
 
 
