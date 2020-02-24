@@ -1,0 +1,21 @@
+{
+  "name": "simplecli",
+  "version": "1.0.0",
+  "description": "a simple node cli",
+  "main": "index.js",
+  "bin": {
+    "simplecli": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/cloudwheels/simplecli"
+  },
+  "author": "cloudwheels",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.1.1"
+  }
+}
